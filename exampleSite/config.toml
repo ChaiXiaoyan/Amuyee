@@ -7,7 +7,7 @@ theme = "parsa-hugo"
 title = "Amuyee | Personal Blog "
 [[menu.main]]
 hasChildren = false
-name = "菜单1"
+name = "menu"
 url = ""
 weight = ""
 [[menu.main]]
@@ -32,7 +32,7 @@ name = "Contact"
 url = "contact"
 weight = 3
 [outputs]
-home = ["试一下", "RSS", "HTML", "JSON"]
+home = ["amu", "RSS", "HTML", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
 author = "Amuyee"
