@@ -6,6 +6,11 @@ summaryLength = "11"
 theme = "parsa-hugo"
 title = "Amuyee | Personal Blog "
 [[menu.main]]
+hasChildren = false
+name = "菜单1"
+url = ""
+weight = ""
+[[menu.main]]
 hasChildren = true
 name = "Homepage"
 url = ""
@@ -27,17 +32,17 @@ name = "Contact"
 url = "contact"
 weight = 3
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["试一下", "RSS", "HTML", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "John Doe"
+author = "Amuyee"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
-contact_form_action = "#"
+contact_form_action = "#test"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
-email = "exmaple@ymail.com"
-home = "Home"
+email = "amuyee@ymail.com"
+home = "主页"
 layout = "1"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
