@@ -1,10 +1,10 @@
 baseurl = "https://amuyee.netlify.app"
 googleAnalytics = ""
 languageCode = "en-us"
-paginate = 6
-summaryLength = "10"
+paginate = "10"
+summaryLength = "11"
 theme = "parsa-hugo"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Amuyee | Personal Blog "
 [[menu.main]]
 hasChildren = true
 name = "Homepage"
