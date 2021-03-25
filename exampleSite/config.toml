@@ -1,4 +1,4 @@
-baseurl = "https://chaixiaoyan.github.io/Amuyee/."
+baseurl = "https://amuyee.netlify.app"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = 6
